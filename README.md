@@ -897,10 +897,8 @@ SOFTWARE.
 
 ### Get Help
 
-- 📧 **Email Support:** [support@cloudchat.com](mailto:support@cloudchat.com)
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/your-username/cloud-chat-platform/issues)
-- 💬 **Community Chat:** [Discord Server](https://discord.gg/cloudchat)
-- 📖 **Documentation:** [Wiki](https://github.com/your-username/cloud-chat-platform/wiki)
+- 📧 **Email Support:** [sajidrahman@dal.ca](mailto:sajidrahman@dal.ca)
+
 
 ### Community Guidelines
 
